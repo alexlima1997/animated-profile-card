@@ -1,1 +1,1 @@
-# animated-profile-card
+# Animated-Profile-Card
